@@ -7,4 +7,4 @@ The app supports only gmail smtp server and uses openCV library (https://opencv.
 1. install python 2.7
 2. install openCV with command: <code>pip install opencv-python</code>
 3. go to https://myaccount.google.com/lesssecureapps and change Allow less secure apps to ON
-4. run the app to your directory as: python thief_detector.py
+4. run the app to your directory as: <code>python thief_detector.py</code>
